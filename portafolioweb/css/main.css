@@ -1,0 +1,101 @@
+body{
+	font-family: 'DM Serif Display', serif;
+}
+.img{
+	width: 100px;
+	border-radius: 80px;
+}
+.correo{
+	width: 30px;
+	border-radius: 80px;
+}
+.ins{
+	width: 30px;
+	border-radius: 80px;
+}
+.git{
+	width: 60px;
+	border-radius: 80px;
+}
+.face{
+	width: 30px;
+	border-radius: 80px;
+}
+.pag{
+	background-color: #5BB0BA;
+}
+.por{
+	background-color: #F6C8CC;
+}
+.img1{
+	border: 3px solid black;
+  padding: 5px;
+  background-color: #3ACFC0;
+  margin-bottom: 50px;
+  text-transform: capitalize;
+  font-family: 'Coiny', cursive;
+  font-size: 25px;
+  box-shadow: 9px 8px 10px #54585C;
+	width: 80%;
+	height: 70%;
+	margin: 0 auto;
+}
+.img2{
+	border: 3px solid black;
+  padding: 5px;
+  background-color: #3ACFC0;
+  margin-bottom: 50px;
+  text-transform: capitalize;
+  font-family: 'Coiny', cursive;
+  font-size: 25px;
+  box-shadow: 9px 8px 10px #54585C;
+  width: 80%;
+	height: 70%;
+	margin: 0 auto;
+}
+.img3{
+	border: 3px solid black;
+  padding: 5px;
+  background-color: #3ACFC0;
+  margin-bottom: 50px;
+  text-transform: capitalize;
+  font-family: 'Coiny', cursive;
+  font-size: 25px;
+  box-shadow: 9px 8px 10px #54585C;
+  width: 80%;
+	height: 70%;
+	margin: 0 auto;
+}
+.img5{
+	border: 3px solid black;
+  padding: 5px;
+  background-color: #3ACFC0;
+  margin-bottom: 50px;
+  text-transform: capitalize;
+  font-family: 'Coiny', cursive;
+  font-size: 25px;
+  box-shadow: 9px 8px 10px #54585C;
+  width: 80%;
+	height: 70%;
+	margin: 0 auto;
+}
+.img6{
+border: 3px solid black;
+  padding: 5px;
+  background-color: #3ACFC0;
+  margin-bottom: 50px;
+  text-transform: capitalize;
+  font-family: 'Coiny', cursive;
+  font-size: 25px;
+  box-shadow: 9px 8px 10px #54585C;
+  width: 80%;
+	height: 70%;
+	margin: 0 auto;
+}
+.sr{
+	background-color: #5BB0BA;
+}
+.rob{
+  padding-left: 5%;
+  padding-right: 5%;
+}
